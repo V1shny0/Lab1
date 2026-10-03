@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1791056844 source:d:\Лаби інформатика\lab1_2\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
